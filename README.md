@@ -7,7 +7,7 @@ You are required to calculate the value of an nth-degree polynomial. The functio
   
 Example:
 
-•	Input: 2, [3,4,5]
+•	Input: 2, [3,4,5] and some other examples
 
 •	Output: 25 (calculated as 3*2^2+4*2+5)
 
